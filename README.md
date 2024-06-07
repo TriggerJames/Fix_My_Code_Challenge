@@ -1,9 +1,3 @@
-# 0x00. Fix my code
+# Fix-my-code-0
 
-## Tasks
-
-0. FizzBuzz
-1. Print square
-2. Sort
-3. User password
-4. Double linked list
+Fix my code is a new type of project, where we’ll jump into an existing code base and fix it!
